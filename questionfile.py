@@ -43,5 +43,3 @@ def leg_counter():
 #Runs the leg_counter function, printing the returned variable.
 print(leg_counter())
 
-
-
